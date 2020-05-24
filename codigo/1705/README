@@ -1,0 +1,21 @@
+ChestXray dataset
+
+ChestX-ray dataset comprises 112,120 frontal-view X-ray images of 30,805 unique patients with the text-mined fourteen disease image labels (where each image can have multi-labels), mined from the associated radiological reports using natural language processing. Fourteen common thoracic pathologies include Atelectasis, Consolidation, Infiltration, Pneumothorax, Edema, Emphysema, Fibrosis, Effusion, Pneumonia, Pleural_thickening, Cardiomegaly, Nodule, Mass and Hernia, which is an extension of the 8 common disease patterns listed in our CVPR 2017 paper.
+
+Contents
+1. 112,120 frontal-view chest X-ray PNG images in 1024*1024 resolution (under images folder)
+2. Meta data for all images (Data_Entry_2016.csv): Image Index, Finding Labels, Follow-up #, Patient ID, Patient Age, Patient Gender, and View Position.
+3. Bounding boxes for ~1000 images (BBox_List_2016.csv): Image Index, Finding Label, Bbox[x, y, w, h]. [x y] are coordinates of each box's topleft corner. [w h] represent the width and height of each box.
+
+More information on this dataset can be found in our CVPR paper and on our website, https://www.cc.nih.gov/drd/summers.html
+
+if you find the dataset useful for your research projects, please cite our CVPR 2017 paper:
+
+@InProceedings{wang2017chestxray,
+  author    = {Wang, Xiaosong and Peng, Yifan and Lu, Le and Lu, Zhiyong and Bagheri, Mohammadhadi and Summers, Ronald},
+  title     = {ChestX-ray8: Hospital-scale Chest X-ray Database and Benchmarks on Weakly-Supervised Classification and Localization of Common Thorax Diseases},
+  booktitle = {Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition},
+  pages     = {1--10},
+  year      = {2017}
+}
+

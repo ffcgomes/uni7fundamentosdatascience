@@ -1,0 +1,327 @@
+\begin{thebibliography}{10}\itemsep=-1pt
+
+\bibitem{openi}
+Open-i: An open access biomedical search engine.
+\newblock \url{https://openi.nlm.nih.gov}.
+
+\bibitem{Antol2015VQA}
+S.~Antol, A.~Agrawal, J.~Lu, M.~Mitchell, D.~Batra, and L.~Zitnick.
+\newblock Vqa: Visual question answering.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{aronson2010overview}
+A.~R. Aronson and F.-M. Lang.
+\newblock An overview of {MetaMap}: historical perspective and recent advances.
+\newblock {\em Journal of the American Medical Informatics Association},
+  17(3):229--236, may 2010.
+
+\bibitem{Ba2015Predicting}
+J.~Ba, K.~Swersky, S.~Fidler, and R.~Salakhutdinov.
+\newblock Predicting deep zero-shot convolutional neural networks using textual
+  descriptions.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{bird2009natural}
+S.~Bird, E.~Klein, and E.~Loper.
+\newblock {\em Natural language processing with Python}.
+\newblock "O'Reilly Media, Inc.", 2009.
+
+\bibitem{chapman2001simple}
+W.~W. Chapman, W.~Bridewell, P.~Hanbury, G.~F. Cooper, and B.~G. Buchanan.
+\newblock A simple algorithm for identifying negated findings and diseases in
+  discharge summaries.
+\newblock {\em Journal of Biomedical Informatics}, 34(5):301--310, oct 2001.
+
+\bibitem{charniak2005coarse}
+E.~Charniak and M.~Johnson.
+\newblock Coarse-to-fine n-best parsing and {MaxEnt} discriminative reranking.
+\newblock In {\em Proceedings of the 43rd Annual Meeting on Association for
+  Computational Linguistics (ACL)}, pages 173--180, 2005.
+
+\bibitem{demarneffe2015stanford}
+M.-C. De~Marneffe and C.~D. Manning.
+\newblock {\em Stanford typed dependencies manual}.
+\newblock Stanford University, apr 2015.
+
+\bibitem{demner2015preparing}
+D.~Demner-Fushman, M.~D. Kohli, M.~B. Rosenman, S.~E. Shooshan, L.~Rodriguez,
+  S.~Antani, G.~R. Thoma, and C.~J. McDonald.
+\newblock Preparing a collection of radiology examinations for distribution and
+  retrieval.
+\newblock {\em Journal of the American Medical Informatics Association},
+  23(2):304--310, July 2015.
+
+\bibitem{deng2009imagenet}
+J.~Deng, W.~Dong, R.~Socher, L.-J. Li, K.~Li, and L.~Fei-Fei.
+\newblock Imagenet: A large-scale hierarchical image database.
+\newblock In {\em Computer Vision and Pattern Recognition}, pages 248--255.
+  IEEE, 2009.
+
+\bibitem{Dou2016Automatic}
+Q.~Dou, H.~Chen, L.~Yu, L.~Zhao, J.~Qin, D.~Wang, V.~Mok, L.~Shi, and P.~Heng.
+\newblock Automatic detection of cerebral microbleeds from mr images via 3d
+  convolutional neural networks.
+\newblock {\em IEEE Trans. Medical Imaging}, 35(5):1182--1195, 2016.
+
+\bibitem{durandweldon}
+T.~Durand, N.~Thome, and M.~Cord.
+\newblock Weldon: Weakly supervised learning of deep convolutional neural
+  networks.
+\newblock {\em IEEE CVPR}, 2016.
+
+\bibitem{Everingham2015}
+M.~Everingham, S.~M.~A. Eslami, L.~J. {Van Gool}, C.~Williams, J.~Winn, and
+  A.~Zisserman.
+\newblock The pascal visual object classes challenge: A retrospective.
+\newblock {\em International Journal of Computer Vision}, pages 111(1):
+  98--136, 2015.
+
+\bibitem{Greenspan2016Guest}
+H.~Greenspan, B.~{van Ginneken}, and R.~M. Summers.
+\newblock Guest editorial deep learning in medical imaging: Overview and future
+  promise of an exciting new technique.
+\newblock {\em IEEE Trans. Medical Imaging}, 35(5):1153--1159, 2016.
+
+\bibitem{hariharan2016low}
+B.~Hariharan and R.~Girshick.
+\newblock Low-shot visual object recognition.
+\newblock {\em arXiv preprint arXiv:1606.02819}, 2016.
+
+\bibitem{Havaei2016HeMIS}
+M.~Havaei, N.~Guizard, N.~Chapados, and Y.~Bengio.
+\newblock Hemis: Hetero-modal image segmentation.
+\newblock In {\em MICCAI}, pages (2): 469--477. Springer, 2016.
+
+\bibitem{He2015}
+K.~He, X.~Zhang, S.~Ren, and J.~Sun.
+\newblock Deep residual learning for image recognition.
+\newblock {\em arXiv preprint arXiv:1512.03385}, 2015.
+
+\bibitem{hosang2016makes}
+J.~Hosang, R.~Benenson, P.~Doll{\'a}r, and B.~Schiele.
+\newblock What makes for effective detection proposals?
+\newblock {\em IEEE transactions on pattern analysis and machine intelligence},
+  38(4):814--830, 2016.
+
+\bibitem{Hwang2016Self}
+S.~Hwang and H.-E. Kim.
+\newblock Self-transfer learning for weakly supervised lesion localization.
+\newblock In {\em MICCAI}, pages (2): 239--246, 2015.
+
+\bibitem{QIMS5132}
+S.~Jaeger, S.~Candemir, S.~Antani, Y.-X.~J. Wáng, P.-X. Lu, and G.~Thoma.
+\newblock Two public chest x-ray datasets for computer-aided screening of
+  pulmonary diseases.
+\newblock {\em Quantitative Imaging in Medicine and Surgery}, 4(6), 2014.
+
+\bibitem{Jamaludin2016SpineNet}
+A.~Jamaludin, T.~Kadir, and A.~Zisserman.
+\newblock Spinenet: Automatically pinpointing classification evidence in spinal
+  mris.
+\newblock In {\em MICCAI}. Springer, 2016.
+
+\bibitem{jia2014caffe}
+Y.~Jia, E.~Shelhamer, J.~Donahue, S.~Karayev, J.~Long, R.~Girshick,
+  S.~Guadarrama, and T.~Darrell.
+\newblock Caffe: Convolutional architecture for fast feature embedding.
+\newblock {\em arXiv preprint arXiv:1408.5093}, 2014.
+
+\bibitem{Johnson2016DenseCap}
+J.~Johnson, A.~Karpathy, and L.~Fei-Fei.
+\newblock Densecap: Fully convolutional localization networks for dense
+  captioning.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{Karpathy2015Deep}
+A.~Karpathy and L.~Fei-Fei.
+\newblock Deep visual-semantic alignments for generating image descriptions.
+\newblock In {\em CVPR}, 2015.
+
+\bibitem{krishnavisualgenome}
+R.~Krishna, Y.~Zhu, O.~Groth, J.~Johnson, K.~Hata, J.~Kravitz, S.~Chen,
+  Y.~Kalantidis, L.-J. Li, D.~A. Shamma, M.~Bernstein, and L.~Fei-Fei.
+\newblock Visual genome: Connecting language and vision using crowdsourced
+  dense image annotations.
+\newblock 2016.
+
+\bibitem{krizhevsky2012imagenet}
+A.~Krizhevsky, I.~Sutskever, and G.~E. Hinton.
+\newblock Imagenet classification with deep convolutional neural networks.
+\newblock In {\em Advances in neural information processing systems}, pages
+  1097--1105, 2012.
+
+\bibitem{leaman2015challenges}
+R.~Leaman, R.~Khare, and Z.~Lu.
+\newblock Challenges in clinical natural language processing for automated
+  disorder normalization.
+\newblock {\em Journal of Biomedical Informatics}, 57:28--37, 2015.
+
+\bibitem{Lin2014COCO}
+T.-Y. Lin, M.~Maire, S.~Belongie, J.~Hays, P.~Perona, D.~Ramanan, P.~Dollár,
+  and L.~Zitnick.
+\newblock Microsoft coco: Common objects in context.
+\newblock {\em ECCV}, pages (5): 740--755, 2014.
+
+\bibitem{mcclosky2009any}
+D.~McClosky.
+\newblock {\em Any domain parsing: automatic domain adaptation for natural
+  language parsing}.
+\newblock Thesis, Department of Computer Science, Brown University, 2009.
+
+\bibitem{Moeskops2016Deep}
+P.~Moeskops, J.~Wolterink, B.~{van der Velden}, K.~Gilhuijs, T.~Leiner,
+  M.~Viergever, and I.~Isgum.
+\newblock Deep learning for multi-task medical image segmentation in multiple
+  modalities.
+\newblock In {\em MICCAI}. Springer, 2016.
+
+\bibitem{oquab2015object}
+M.~Oquab, L.~Bottou, I.~Laptev, and J.~Sivic.
+\newblock Is object localization for free?-weakly-supervised learning with
+  convolutional neural networks.
+\newblock In {\em IEEE CVPR}, pages 685--694, 2015.
+
+\bibitem{pinheiro2015image}
+P.~O. Pinheiro and R.~Collobert.
+\newblock From image-level to pixel-level labeling with convolutional networks.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1713--1721, 2015.
+
+\bibitem{Plummer2015Flickr30k}
+B.~Plummer, L.~Wang, C.~Cervantes, J.~Caicedo, J.~Hockenmaier, and S.~Lazebnik.
+\newblock Flickr30k entities: Collecting region-to-phrase correspondences for
+  richer image-to-sentence models.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{Qiao2016Less}
+R.~Qiao, L.~Liu, C.~Shen, and A.~{van den Hengel}.
+\newblock Less is more: zero-shot learning from online textual documents with
+  noise suppression.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{ronneberger2015unet}
+O.~Ronneberger, P.~Fischer, and T.~Brox.
+\newblock U-net: Convolutional networks for biomedical image segmentation.
+\newblock In {\em MICCAI}, pages 234--241. Springer, 2015.
+
+\bibitem{roth2015deeporgan}
+H.~Roth, L.~Lu, A.~Farag, H.-C. Shin, J.~Liu, E.~B. Turkbey, and R.~M. Summers.
+\newblock Deeporgan: Multi-level deep convolutional networks for automated
+  pancreas segmentation.
+\newblock In {\em MICCAI}, pages 556--564. Springer, 2015.
+
+\bibitem{roth2014new}
+H.~R. Roth, L.~Lu, A.~Seff, K.~M. Cherry, J.~Hoffman, S.~Wang, J.~Liu,
+  E.~Turkbey, and R.~M. Summers.
+\newblock A new {2.5D} representation for lymph node detection using random
+  sets of deep convolutional neural network observations.
+\newblock In {\em MICCAI}, pages 520--527. Springer, 2014.
+
+\bibitem{Russakovsky2015}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, A.~Berg, and L.~Fei-Fei.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em International Journal of Computer Vision}, pages 115(3):
+  211--252, 2015.
+
+\bibitem{russakovsky2015imagenet}
+O.~Russakovsky, J.~Deng, H.~Su, J.~Krause, S.~Satheesh, S.~Ma, Z.~Huang,
+  A.~Karpathy, A.~Khosla, M.~Bernstein, et~al.
+\newblock Imagenet large scale visual recognition challenge.
+\newblock {\em International Journal of Computer Vision}, 115(3):211--252,
+  2015.
+
+\bibitem{Setio2016Pulmonary}
+A.~Setio, F.~Ciompi, G.~Litjens, P.~Gerke, C.~Jacobs, S.~{van Riel}, M.~Wille,
+  M.~Naqibullah, C.~Sánchez, and B.~{van Ginneken}.
+\newblock Pulmonary nodule detection in ct images: False positive reduction
+  using multi-view convolutional networks.
+\newblock {\em IEEE Trans. Medical Imaging}, 35(5):1160--1169, 2016.
+
+\bibitem{Shin2016Interleaved}
+H.~Shin, L.~Lu, L.~Kim, A.~Seff, J.~Yao, and R.~Summers.
+\newblock Interleaved text/image deep mining on a large-scale radiology
+  database for automated image interpretation.
+\newblock {\em Journal of Machine Learning Research}, 17:1--31, 2016.
+
+\bibitem{Shin2016Learning}
+H.~Shin, K.~Roberts, L.~Lu, D.~Demner-Fushman, J.~Yao, and R.~Summers.
+\newblock Learning to read chest x-rays: Recurrent neural cascade model for
+  automated image annotation.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{Shin2016Deep}
+H.~Shin, H.~Roth, M.~Gao, L.~Lu, Z.~Xu, I.~Nogues, J.~Yao, D.~Mollura, and
+  R.~Summers.
+\newblock Deep convolutional neural networks for computer-aided detection: Cnn
+  architectures, dataset characteristics and transfer learnings.
+\newblock {\em IEEE Trans. Medical Imaging}, 35(5):1285--1298, 2016.
+
+\bibitem{simonyan2014very}
+K.~Simonyan and A.~Zisserman.
+\newblock Very deep convolutional networks for large-scale image recognition.
+\newblock {\em arXiv preprint arXiv:1409.1556}, 2014.
+
+\bibitem{szegedy2015going}
+C.~Szegedy, W.~Liu, Y.~Jia, P.~Sermanet, S.~Reed, D.~Anguelov, D.~Erhan,
+  V.~Vanhoucke, and A.~Rabinovich.
+\newblock Going deeper with convolutions.
+\newblock In {\em Proceedings of the IEEE Conference on Computer Vision and
+  Pattern Recognition}, pages 1--9, 2015.
+
+\bibitem{Tapaswi2015MovieQA}
+M.~Tapaswi, Y.~Zhu, R.~Stiefelhagen, A.~Torralba, R.~Urtasun, and S.~Fidler.
+\newblock Movieqa: Understanding stories in movies through question-answering.
+\newblock In {\em ICCV}, 2015.
+
+\bibitem{uijlings2013selective}
+J.~R. Uijlings, K.~E. van~de Sande, T.~Gevers, and A.~W. Smeulders.
+\newblock Selective search for object recognition.
+\newblock {\em International journal of computer vision}, 104(2):154--171,
+  2013.
+
+\bibitem{Vendrov2016Order}
+I.~Vendrov, R.~Kiros, S.~Fidler, and R.~Urtasun.
+\newblock Order-embeddings of images and language.
+\newblock In {\em ICLR}, 2016.
+
+\bibitem{Vinyals2015Show}
+O.~Vinyals, A.~Toshev, S.~Bengio, and D.~Erhan.
+\newblock Show and tell: A neural image caption generator.
+\newblock In {\em CVPR}, pages 3156--3164, 2015.
+
+\bibitem{Jamaludin2016}
+H.-J. Wilke, M.~Kümin, and J.~Urban.
+\newblock Genodisc dataset: The benefits of multi-disciplinary research on
+  intervertebral disc degeneration.
+\newblock In {\em European Spine Journal}, 2016.
+
+\bibitem{Wu2016Ask}
+Q.~Wu, P.~Wang, C.~Shen, A.~Dick, and A.~{van den Hengel}.
+\newblock Ask me anything: free-form visual question answering based on
+  knowledge from external sources.
+\newblock In {\em CVPR}, 2016.
+
+\bibitem{Yao2016}
+J.~Yao and et~al.
+\newblock A multi-center milestone study of clinical vertebral ct segmentation.
+\newblock In {\em Computerized Medical Imaging and Graphics}, pages 49(4):
+  16--28, 2016.
+
+\bibitem{Young2014From}
+P.~Young, A.~Lai, M.~Hodosh, and J.~Hockenmaier.
+\newblock From image descriptions to visual denotations: New similarity metrics
+  for semantic inference over event descriptions.
+\newblock In {\em TACL}, 2014.
+
+\bibitem{zhou2015learning}
+B.~Zhou, A.~Khosla, A.~Lapedriza, A.~Oliva, and A.~Torralba.
+\newblock Learning deep features for discriminative localization.
+\newblock {\em arXiv preprint arXiv:1512.04150}, 2015.
+
+\bibitem{Zhu2016Visual7W}
+Y.~Zhu, O.~Groth, M.~Bernstein, and L.~Fei-Fei.
+\newblock Visual7w: Grounded question answering in images.
+\newblock In {\em CVPR}, 2016.
+
+\end{thebibliography}
